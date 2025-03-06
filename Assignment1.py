@@ -42,7 +42,8 @@ def count_multiples_of_3(limit):
             print("remainder of 3")
         else:
             print(number)
-    number += 1
+        number += 1
+    return(number)
 
 # Function 6: Sum of Even Numbers in a Range
 # This function should calculate and return the sum of even numbers within a given range.
